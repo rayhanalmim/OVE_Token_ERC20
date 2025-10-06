@@ -1,0 +1,27 @@
+{
+    "image": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/land/img/human.jpg",
+    "name": "Land Human 1",
+    "description": "",
+    "external_url": "",
+    "thumbnail": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/land/thumbnail/human.jpg",
+    "objectId": "cLands_1",
+    "tokenId": 1,
+    "attributes": [
+        {
+            "trait_type": "Longtitude",
+            "value": "119.758990"
+        },
+        {
+            "trait_type": "Latitude",
+            "value": "-85.870664"
+        },
+        {
+            "trait_type": "Area",
+            "value": "10283.78399126936"
+        },
+        {
+            "trait_type": "Type",
+            "value": "Human"
+        }
+    ]
+}

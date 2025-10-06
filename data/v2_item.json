@@ -1,0 +1,1642 @@
+[
+  {
+    "image": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/img/Set6_Body.png",
+    "name": "Black Body 0",
+    "description": "",
+    "external_url": "",
+    "link": "models/items/Set6_Body.glb",
+    "thumbnail": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/thumbnail/Set6_Body.png",
+    "objectId": "29",
+    "tokenId": 0,
+    "attributes": [
+      { "trait_type": "Type", "value": "body" },
+      { "trait_type": "Sex", "value": 1 },
+      { "trait_type": "Set", "value": 1 },
+      { "trait_type": "PartsHided", "value": "Body Arm Leg" },
+      { "trait_type": "Stat_Jump", "value": 0 }
+    ]
+  },
+  {
+    "image": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/img/Set6_Body.png",
+    "name": "Black Body 1",
+    "description": "",
+    "external_url": "",
+    "link": "models/items/Set6_Body.glb",
+    "thumbnail": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/thumbnail/Set6_Body.png",
+    "objectId": "29",
+    "tokenId": 1,
+    "attributes": [
+      { "trait_type": "Type", "value": "body" },
+      { "trait_type": "Sex", "value": 1 },
+      { "trait_type": "Set", "value": 1 },
+      { "trait_type": "PartsHided", "value": "Body Arm Leg" },
+      { "trait_type": "Stat_Jump", "value": 0 }
+    ]
+  },
+  {
+    "image": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/img/Set6_Body.png",
+    "name": "Black Body 2",
+    "description": "",
+    "external_url": "",
+    "link": "models/items/Set6_Body.glb",
+    "thumbnail": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/thumbnail/Set6_Body.png",
+    "objectId": "29",
+    "tokenId": 2,
+    "attributes": [
+      { "trait_type": "Type", "value": "body" },
+      { "trait_type": "Sex", "value": 1 },
+      { "trait_type": "Set", "value": 1 },
+      { "trait_type": "PartsHided", "value": "Body Arm Leg" },
+      { "trait_type": "Stat_Jump", "value": 0 }
+    ]
+  },
+  {
+    "image": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/img/Set6_Body.png",
+    "name": "Black Body 3",
+    "description": "",
+    "external_url": "",
+    "link": "models/items/Set6_Body.glb",
+    "thumbnail": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/thumbnail/Set6_Body.png",
+    "objectId": "29",
+    "tokenId": 3,
+    "attributes": [
+      { "trait_type": "Type", "value": "body" },
+      { "trait_type": "Sex", "value": 1 },
+      { "trait_type": "Set", "value": 1 },
+      { "trait_type": "PartsHided", "value": "Body Arm Leg" },
+      { "trait_type": "Stat_Jump", "value": 0 }
+    ]
+  },
+  {
+    "image": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/img/Set6_Body.png",
+    "name": "Black Body 4",
+    "description": "",
+    "external_url": "",
+    "link": "models/items/Set6_Body.glb",
+    "thumbnail": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/thumbnail/Set6_Body.png",
+    "objectId": "29",
+    "tokenId": 4,
+    "attributes": [
+      { "trait_type": "Type", "value": "body" },
+      { "trait_type": "Sex", "value": 1 },
+      { "trait_type": "Set", "value": 1 },
+      { "trait_type": "PartsHided", "value": "Body Arm Leg" },
+      { "trait_type": "Stat_Jump", "value": 0 }
+    ]
+  },
+  {
+    "image": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/img/Set6_Glove.png",
+    "name": "Black Glove 5",
+    "description": "",
+    "external_url": "",
+    "link": "models/items/Set6_Glove.glb",
+    "thumbnail": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/thumbnail/Set6_Glove.png",
+    "objectId": "27",
+    "tokenId": 5,
+    "attributes": [
+      { "trait_type": "Type", "value": "glove" },
+      { "trait_type": "Sex", "value": 1 },
+      { "trait_type": "Set", "value": 1 },
+      { "trait_type": "PartsHided", "value": "" },
+      { "trait_type": "Stat_Jump", "value": 0 }
+    ]
+  },
+  {
+    "image": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/img/Set6_Glove.png",
+    "name": "Black Glove 6",
+    "description": "",
+    "external_url": "",
+    "link": "models/items/Set6_Glove.glb",
+    "thumbnail": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/thumbnail/Set6_Glove.png",
+    "objectId": "27",
+    "tokenId": 6,
+    "attributes": [
+      { "trait_type": "Type", "value": "glove" },
+      { "trait_type": "Sex", "value": 1 },
+      { "trait_type": "Set", "value": 1 },
+      { "trait_type": "PartsHided", "value": "" },
+      { "trait_type": "Stat_Jump", "value": 0 }
+    ]
+  },
+  {
+    "image": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/img/Set6_Glove.png",
+    "name": "Black Glove 7",
+    "description": "",
+    "external_url": "",
+    "link": "models/items/Set6_Glove.glb",
+    "thumbnail": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/thumbnail/Set6_Glove.png",
+    "objectId": "27",
+    "tokenId": 7,
+    "attributes": [
+      { "trait_type": "Type", "value": "glove" },
+      { "trait_type": "Sex", "value": 1 },
+      { "trait_type": "Set", "value": 1 },
+      { "trait_type": "PartsHided", "value": "" },
+      { "trait_type": "Stat_Jump", "value": 0 }
+    ]
+  },
+  {
+    "image": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/img/Set6_Glove.png",
+    "name": "Black Glove 8",
+    "description": "",
+    "external_url": "",
+    "link": "models/items/Set6_Glove.glb",
+    "thumbnail": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/thumbnail/Set6_Glove.png",
+    "objectId": "27",
+    "tokenId": 8,
+    "attributes": [
+      { "trait_type": "Type", "value": "glove" },
+      { "trait_type": "Sex", "value": 1 },
+      { "trait_type": "Set", "value": 1 },
+      { "trait_type": "PartsHided", "value": "" },
+      { "trait_type": "Stat_Jump", "value": 0 }
+    ]
+  },
+  {
+    "image": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/img/Set6_Glove.png",
+    "name": "Black Glove 9",
+    "description": "",
+    "external_url": "",
+    "link": "models/items/Set6_Glove.glb",
+    "thumbnail": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/thumbnail/Set6_Glove.png",
+    "objectId": "27",
+    "tokenId": 9,
+    "attributes": [
+      { "trait_type": "Type", "value": "glove" },
+      { "trait_type": "Sex", "value": 1 },
+      { "trait_type": "Set", "value": 1 },
+      { "trait_type": "PartsHided", "value": "" },
+      { "trait_type": "Stat_Jump", "value": 0 }
+    ]
+  },
+  {
+    "image": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/img/Set6_Shoe.png",
+    "name": "Black Shoes 10",
+    "description": "",
+    "external_url": "",
+    "link": "models/items/Set6_Shoes.glb",
+    "thumbnail": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/thumbnail/Set6_Shoe.png",
+    "objectId": "26",
+    "tokenId": 10,
+    "attributes": [
+      { "trait_type": "Type", "value": "shoe" },
+      { "trait_type": "Sex", "value": 1 },
+      { "trait_type": "Set", "value": 1 },
+      { "trait_type": "PartsHided", "value": "Foot" },
+      { "trait_type": "Stat_Jump", "value": 0 }
+    ]
+  },
+  {
+    "image": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/img/Set6_Shoe.png",
+    "name": "Black Shoes 11",
+    "description": "",
+    "external_url": "",
+    "link": "models/items/Set6_Shoes.glb",
+    "thumbnail": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/thumbnail/Set6_Shoe.png",
+    "objectId": "26",
+    "tokenId": 11,
+    "attributes": [
+      { "trait_type": "Type", "value": "shoe" },
+      { "trait_type": "Sex", "value": 1 },
+      { "trait_type": "Set", "value": 1 },
+      { "trait_type": "PartsHided", "value": "Foot" },
+      { "trait_type": "Stat_Jump", "value": 0 }
+    ]
+  },
+  {
+    "image": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/img/Set6_Shoe.png",
+    "name": "Black Shoes 12",
+    "description": "",
+    "external_url": "",
+    "link": "models/items/Set6_Shoes.glb",
+    "thumbnail": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/thumbnail/Set6_Shoe.png",
+    "objectId": "26",
+    "tokenId": 12,
+    "attributes": [
+      { "trait_type": "Type", "value": "shoe" },
+      { "trait_type": "Sex", "value": 1 },
+      { "trait_type": "Set", "value": 1 },
+      { "trait_type": "PartsHided", "value": "Foot" },
+      { "trait_type": "Stat_Jump", "value": 0 }
+    ]
+  },
+  {
+    "image": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/img/Set6_Shoe.png",
+    "name": "Black Shoes 13",
+    "description": "",
+    "external_url": "",
+    "link": "models/items/Set6_Shoes.glb",
+    "thumbnail": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/thumbnail/Set6_Shoe.png",
+    "objectId": "26",
+    "tokenId": 13,
+    "attributes": [
+      { "trait_type": "Type", "value": "shoe" },
+      { "trait_type": "Sex", "value": 1 },
+      { "trait_type": "Set", "value": 1 },
+      { "trait_type": "PartsHided", "value": "Foot" },
+      { "trait_type": "Stat_Jump", "value": 0 }
+    ]
+  },
+  {
+    "image": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/img/Set6_Shoe.png",
+    "name": "Black Shoes 14",
+    "description": "",
+    "external_url": "",
+    "link": "models/items/Set6_Shoes.glb",
+    "thumbnail": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/thumbnail/Set6_Shoe.png",
+    "objectId": "26",
+    "tokenId": 14,
+    "attributes": [
+      { "trait_type": "Type", "value": "shoe" },
+      { "trait_type": "Sex", "value": 1 },
+      { "trait_type": "Set", "value": 1 },
+      { "trait_type": "PartsHided", "value": "Foot" },
+      { "trait_type": "Stat_Jump", "value": 0 }
+    ]
+  },
+  {
+    "image": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/img/Set6_Mask.png",
+    "name": "Black Mask 15",
+    "description": "",
+    "external_url": "",
+    "link": "models/items/Set6_Mask.glb",
+    "thumbnail": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/thumbnail/Set6_Mask.png",
+    "objectId": "24",
+    "tokenId": 15,
+    "attributes": [
+      { "trait_type": "Type", "value": "mask" },
+      { "trait_type": "Sex", "value": 1 },
+      { "trait_type": "Set", "value": 1 },
+      { "trait_type": "PartsHided", "value": "" },
+      { "trait_type": "Stat_Jump", "value": 0 }
+    ]
+  },
+  {
+    "image": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/img/Set6_Mask.png",
+    "name": "Black Mask 16",
+    "description": "",
+    "external_url": "",
+    "link": "models/items/Set6_Mask.glb",
+    "thumbnail": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/thumbnail/Set6_Mask.png",
+    "objectId": "24",
+    "tokenId": 16,
+    "attributes": [
+      { "trait_type": "Type", "value": "mask" },
+      { "trait_type": "Sex", "value": 1 },
+      { "trait_type": "Set", "value": 1 },
+      { "trait_type": "PartsHided", "value": "" },
+      { "trait_type": "Stat_Jump", "value": 0 }
+    ]
+  },
+  {
+    "image": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/img/Set6_Mask.png",
+    "name": "Black Mask 17",
+    "description": "",
+    "external_url": "",
+    "link": "models/items/Set6_Mask.glb",
+    "thumbnail": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/thumbnail/Set6_Mask.png",
+    "objectId": "24",
+    "tokenId": 17,
+    "attributes": [
+      { "trait_type": "Type", "value": "mask" },
+      { "trait_type": "Sex", "value": 1 },
+      { "trait_type": "Set", "value": 1 },
+      { "trait_type": "PartsHided", "value": "" },
+      { "trait_type": "Stat_Jump", "value": 0 }
+    ]
+  },
+  {
+    "image": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/img/Set6_Mask.png",
+    "name": "Black Mask 18",
+    "description": "",
+    "external_url": "",
+    "link": "models/items/Set6_Mask.glb",
+    "thumbnail": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/thumbnail/Set6_Mask.png",
+    "objectId": "24",
+    "tokenId": 18,
+    "attributes": [
+      { "trait_type": "Type", "value": "mask" },
+      { "trait_type": "Sex", "value": 1 },
+      { "trait_type": "Set", "value": 1 },
+      { "trait_type": "PartsHided", "value": "" },
+      { "trait_type": "Stat_Jump", "value": 0 }
+    ]
+  },
+  {
+    "image": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/img/Set6_Mask.png",
+    "name": "Black Mask 19",
+    "description": "",
+    "external_url": "",
+    "link": "models/items/Set6_Mask.glb",
+    "thumbnail": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/thumbnail/Set6_Mask.png",
+    "objectId": "24",
+    "tokenId": 19,
+    "attributes": [
+      { "trait_type": "Type", "value": "mask" },
+      { "trait_type": "Sex", "value": 1 },
+      { "trait_type": "Set", "value": 1 },
+      { "trait_type": "PartsHided", "value": "" },
+      { "trait_type": "Stat_Jump", "value": 0 }
+    ]
+  },
+  {
+    "image": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/img/Set6_Hat.png",
+    "name": "Black Hat 20",
+    "description": "",
+    "external_url": "",
+    "link": "models/items/Set6_Hat.glb",
+    "thumbnail": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/thumbnail/Set6_Hat.png",
+    "objectId": "22",
+    "tokenId": 20,
+    "attributes": [
+      { "trait_type": "Type", "value": "hat" },
+      { "trait_type": "Sex", "value": 1 },
+      { "trait_type": "Set", "value": 1 },
+      { "trait_type": "PartsHided", "value": "" },
+      { "trait_type": "Stat_Jump", "value": 0 }
+    ]
+  },
+  {
+    "image": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/img/Set6_Hat.png",
+    "name": "Black Hat 21",
+    "description": "",
+    "external_url": "",
+    "link": "models/items/Set6_Hat.glb",
+    "thumbnail": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/thumbnail/Set6_Hat.png",
+    "objectId": "22",
+    "tokenId": 21,
+    "attributes": [
+      { "trait_type": "Type", "value": "hat" },
+      { "trait_type": "Sex", "value": 1 },
+      { "trait_type": "Set", "value": 1 },
+      { "trait_type": "PartsHided", "value": "" },
+      { "trait_type": "Stat_Jump", "value": 0 }
+    ]
+  },
+  {
+    "image": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/img/Set6_Hat.png",
+    "name": "Black Hat 22",
+    "description": "",
+    "external_url": "",
+    "link": "models/items/Set6_Hat.glb",
+    "thumbnail": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/thumbnail/Set6_Hat.png",
+    "objectId": "22",
+    "tokenId": 22,
+    "attributes": [
+      { "trait_type": "Type", "value": "hat" },
+      { "trait_type": "Sex", "value": 1 },
+      { "trait_type": "Set", "value": 1 },
+      { "trait_type": "PartsHided", "value": "" },
+      { "trait_type": "Stat_Jump", "value": 0 }
+    ]
+  },
+  {
+    "image": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/img/Set6_Hat.png",
+    "name": "Black Hat 23",
+    "description": "",
+    "external_url": "",
+    "link": "models/items/Set6_Hat.glb",
+    "thumbnail": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/thumbnail/Set6_Hat.png",
+    "objectId": "22",
+    "tokenId": 23,
+    "attributes": [
+      { "trait_type": "Type", "value": "hat" },
+      { "trait_type": "Sex", "value": 1 },
+      { "trait_type": "Set", "value": 1 },
+      { "trait_type": "PartsHided", "value": "" },
+      { "trait_type": "Stat_Jump", "value": 0 }
+    ]
+  },
+  {
+    "image": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/img/Set6_Hat.png",
+    "name": "Black Hat 24",
+    "description": "",
+    "external_url": "",
+    "link": "models/items/Set6_Hat.glb",
+    "thumbnail": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/thumbnail/Set6_Hat.png",
+    "objectId": "22",
+    "tokenId": 24,
+    "attributes": [
+      { "trait_type": "Type", "value": "hat" },
+      { "trait_type": "Sex", "value": 1 },
+      { "trait_type": "Set", "value": 1 },
+      { "trait_type": "PartsHided", "value": "" },
+      { "trait_type": "Stat_Jump", "value": 0 }
+    ]
+  },
+  {
+    "image": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/img/Set7_Body.png",
+    "name": "Ninja Body 25",
+    "description": "",
+    "external_url": "",
+    "link": "models/items/Set7_Body.glb",
+    "thumbnail": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/thumbnail/Set7_Body.png",
+    "objectId": "30",
+    "tokenId": 25,
+    "attributes": [
+      { "trait_type": "Type", "value": "body" },
+      { "trait_type": "Sex", "value": 1 },
+      { "trait_type": "Set", "value": 2 },
+      { "trait_type": "PartsHided", "value": "Body Arm Leg" },
+      { "trait_type": "Stat_Jump", "value": 1 }
+    ]
+  },
+  {
+    "image": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/img/Set7_Body.png",
+    "name": "Ninja Body 26",
+    "description": "",
+    "external_url": "",
+    "link": "models/items/Set7_Body.glb",
+    "thumbnail": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/thumbnail/Set7_Body.png",
+    "objectId": "30",
+    "tokenId": 26,
+    "attributes": [
+      { "trait_type": "Type", "value": "body" },
+      { "trait_type": "Sex", "value": 1 },
+      { "trait_type": "Set", "value": 2 },
+      { "trait_type": "PartsHided", "value": "Body Arm Leg" },
+      { "trait_type": "Stat_Jump", "value": 1 }
+    ]
+  },
+  {
+    "image": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/img/Set7_Body.png",
+    "name": "Ninja Body 27",
+    "description": "",
+    "external_url": "",
+    "link": "models/items/Set7_Body.glb",
+    "thumbnail": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/thumbnail/Set7_Body.png",
+    "objectId": "30",
+    "tokenId": 27,
+    "attributes": [
+      { "trait_type": "Type", "value": "body" },
+      { "trait_type": "Sex", "value": 1 },
+      { "trait_type": "Set", "value": 2 },
+      { "trait_type": "PartsHided", "value": "Body Arm Leg" },
+      { "trait_type": "Stat_Jump", "value": 1 }
+    ]
+  },
+  {
+    "image": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/img/Set7_Body.png",
+    "name": "Ninja Body 28",
+    "description": "",
+    "external_url": "",
+    "link": "models/items/Set7_Body.glb",
+    "thumbnail": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/thumbnail/Set7_Body.png",
+    "objectId": "30",
+    "tokenId": 28,
+    "attributes": [
+      { "trait_type": "Type", "value": "body" },
+      { "trait_type": "Sex", "value": 1 },
+      { "trait_type": "Set", "value": 2 },
+      { "trait_type": "PartsHided", "value": "Body Arm Leg" },
+      { "trait_type": "Stat_Jump", "value": 1 }
+    ]
+  },
+  {
+    "image": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/img/Set7_Body.png",
+    "name": "Ninja Body 29",
+    "description": "",
+    "external_url": "",
+    "link": "models/items/Set7_Body.glb",
+    "thumbnail": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/thumbnail/Set7_Body.png",
+    "objectId": "30",
+    "tokenId": 29,
+    "attributes": [
+      { "trait_type": "Type", "value": "body" },
+      { "trait_type": "Sex", "value": 1 },
+      { "trait_type": "Set", "value": 2 },
+      { "trait_type": "PartsHided", "value": "Body Arm Leg" },
+      { "trait_type": "Stat_Jump", "value": 1 }
+    ]
+  },
+  {
+    "image": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/img/Set7_Glove.png",
+    "name": "Ninja Glove 30",
+    "description": "",
+    "external_url": "",
+    "link": "models/items/Set7_Glove.glb",
+    "thumbnail": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/thumbnail/Set7_Glove.png",
+    "objectId": "28",
+    "tokenId": 30,
+    "attributes": [
+      { "trait_type": "Type", "value": "glove" },
+      { "trait_type": "Sex", "value": 1 },
+      { "trait_type": "Set", "value": 2 },
+      { "trait_type": "PartsHided", "value": "" },
+      { "trait_type": "Stat_Jump", "value": 1 }
+    ]
+  },
+  {
+    "image": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/img/Set7_Glove.png",
+    "name": "Ninja Glove 31",
+    "description": "",
+    "external_url": "",
+    "link": "models/items/Set7_Glove.glb",
+    "thumbnail": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/thumbnail/Set7_Glove.png",
+    "objectId": "28",
+    "tokenId": 31,
+    "attributes": [
+      { "trait_type": "Type", "value": "glove" },
+      { "trait_type": "Sex", "value": 1 },
+      { "trait_type": "Set", "value": 2 },
+      { "trait_type": "PartsHided", "value": "" },
+      { "trait_type": "Stat_Jump", "value": 1 }
+    ]
+  },
+  {
+    "image": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/img/Set7_Glove.png",
+    "name": "Ninja Glove 32",
+    "description": "",
+    "external_url": "",
+    "link": "models/items/Set7_Glove.glb",
+    "thumbnail": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/thumbnail/Set7_Glove.png",
+    "objectId": "28",
+    "tokenId": 32,
+    "attributes": [
+      { "trait_type": "Type", "value": "glove" },
+      { "trait_type": "Sex", "value": 1 },
+      { "trait_type": "Set", "value": 2 },
+      { "trait_type": "PartsHided", "value": "" },
+      { "trait_type": "Stat_Jump", "value": 1 }
+    ]
+  },
+  {
+    "image": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/img/Set7_Glove.png",
+    "name": "Ninja Glove 33",
+    "description": "",
+    "external_url": "",
+    "link": "models/items/Set7_Glove.glb",
+    "thumbnail": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/thumbnail/Set7_Glove.png",
+    "objectId": "28",
+    "tokenId": 33,
+    "attributes": [
+      { "trait_type": "Type", "value": "glove" },
+      { "trait_type": "Sex", "value": 1 },
+      { "trait_type": "Set", "value": 2 },
+      { "trait_type": "PartsHided", "value": "" },
+      { "trait_type": "Stat_Jump", "value": 1 }
+    ]
+  },
+  {
+    "image": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/img/Set7_Glove.png",
+    "name": "Ninja Glove 34",
+    "description": "",
+    "external_url": "",
+    "link": "models/items/Set7_Glove.glb",
+    "thumbnail": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/thumbnail/Set7_Glove.png",
+    "objectId": "28",
+    "tokenId": 34,
+    "attributes": [
+      { "trait_type": "Type", "value": "glove" },
+      { "trait_type": "Sex", "value": 1 },
+      { "trait_type": "Set", "value": 2 },
+      { "trait_type": "PartsHided", "value": "" },
+      { "trait_type": "Stat_Jump", "value": 1 }
+    ]
+  },
+  {
+    "image": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/img/Set7_Shoe.png",
+    "name": "Ninja Shoes 35",
+    "description": "",
+    "external_url": "",
+    "link": "models/items/Set7_Shoes.glb",
+    "thumbnail": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/thumbnail/Set7_Shoe.png",
+    "objectId": "25",
+    "tokenId": 35,
+    "attributes": [
+      { "trait_type": "Type", "value": "shoe" },
+      { "trait_type": "Sex", "value": 1 },
+      { "trait_type": "Set", "value": 2 },
+      { "trait_type": "PartsHided", "value": "Foot" },
+      { "trait_type": "Stat_Jump", "value": 1 }
+    ]
+  },
+  {
+    "image": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/img/Set7_Shoe.png",
+    "name": "Ninja Shoes 36",
+    "description": "",
+    "external_url": "",
+    "link": "models/items/Set7_Shoes.glb",
+    "thumbnail": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/thumbnail/Set7_Shoe.png",
+    "objectId": "25",
+    "tokenId": 36,
+    "attributes": [
+      { "trait_type": "Type", "value": "shoe" },
+      { "trait_type": "Sex", "value": 1 },
+      { "trait_type": "Set", "value": 2 },
+      { "trait_type": "PartsHided", "value": "Foot" },
+      { "trait_type": "Stat_Jump", "value": 1 }
+    ]
+  },
+  {
+    "image": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/img/Set7_Shoe.png",
+    "name": "Ninja Shoes 37",
+    "description": "",
+    "external_url": "",
+    "link": "models/items/Set7_Shoes.glb",
+    "thumbnail": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/thumbnail/Set7_Shoe.png",
+    "objectId": "25",
+    "tokenId": 37,
+    "attributes": [
+      { "trait_type": "Type", "value": "shoe" },
+      { "trait_type": "Sex", "value": 1 },
+      { "trait_type": "Set", "value": 2 },
+      { "trait_type": "PartsHided", "value": "Foot" },
+      { "trait_type": "Stat_Jump", "value": 1 }
+    ]
+  },
+  {
+    "image": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/img/Set7_Shoe.png",
+    "name": "Ninja Shoes 38",
+    "description": "",
+    "external_url": "",
+    "link": "models/items/Set7_Shoes.glb",
+    "thumbnail": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/thumbnail/Set7_Shoe.png",
+    "objectId": "25",
+    "tokenId": 38,
+    "attributes": [
+      { "trait_type": "Type", "value": "shoe" },
+      { "trait_type": "Sex", "value": 1 },
+      { "trait_type": "Set", "value": 2 },
+      { "trait_type": "PartsHided", "value": "Foot" },
+      { "trait_type": "Stat_Jump", "value": 1 }
+    ]
+  },
+  {
+    "image": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/img/Set7_Shoe.png",
+    "name": "Ninja Shoes 39",
+    "description": "",
+    "external_url": "",
+    "link": "models/items/Set7_Shoes.glb",
+    "thumbnail": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/thumbnail/Set7_Shoe.png",
+    "objectId": "25",
+    "tokenId": 39,
+    "attributes": [
+      { "trait_type": "Type", "value": "shoe" },
+      { "trait_type": "Sex", "value": 1 },
+      { "trait_type": "Set", "value": 2 },
+      { "trait_type": "PartsHided", "value": "Foot" },
+      { "trait_type": "Stat_Jump", "value": 1 }
+    ]
+  },
+  {
+    "image": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/img/Set7_Mask.png",
+    "name": "Ninja Mask 40",
+    "description": "",
+    "external_url": "",
+    "link": "models/items/Set7_Mask.glb",
+    "thumbnail": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/thumbnail/Set7_Mask.png",
+    "objectId": "25",
+    "tokenId": 40,
+    "attributes": [
+      { "trait_type": "Type", "value": "mask" },
+      { "trait_type": "Sex", "value": 1 },
+      { "trait_type": "Set", "value": 2 },
+      { "trait_type": "PartsHided", "value": "" },
+      { "trait_type": "Stat_Jump", "value": 1 }
+    ]
+  },
+  {
+    "image": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/img/Set7_Mask.png",
+    "name": "Ninja Mask 41",
+    "description": "",
+    "external_url": "",
+    "link": "models/items/Set7_Mask.glb",
+    "thumbnail": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/thumbnail/Set7_Mask.png",
+    "objectId": "25",
+    "tokenId": 41,
+    "attributes": [
+      { "trait_type": "Type", "value": "mask" },
+      { "trait_type": "Sex", "value": 1 },
+      { "trait_type": "Set", "value": 2 },
+      { "trait_type": "PartsHided", "value": "" },
+      { "trait_type": "Stat_Jump", "value": 1 }
+    ]
+  },
+  {
+    "image": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/img/Set7_Mask.png",
+    "name": "Ninja Mask 42",
+    "description": "",
+    "external_url": "",
+    "link": "models/items/Set7_Mask.glb",
+    "thumbnail": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/thumbnail/Set7_Mask.png",
+    "objectId": "25",
+    "tokenId": 42,
+    "attributes": [
+      { "trait_type": "Type", "value": "mask" },
+      { "trait_type": "Sex", "value": 1 },
+      { "trait_type": "Set", "value": 2 },
+      { "trait_type": "PartsHided", "value": "" },
+      { "trait_type": "Stat_Jump", "value": 1 }
+    ]
+  },
+  {
+    "image": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/img/Set7_Mask.png",
+    "name": "Ninja Mask 43",
+    "description": "",
+    "external_url": "",
+    "link": "models/items/Set7_Mask.glb",
+    "thumbnail": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/thumbnail/Set7_Mask.png",
+    "objectId": "25",
+    "tokenId": 43,
+    "attributes": [
+      { "trait_type": "Type", "value": "mask" },
+      { "trait_type": "Sex", "value": 1 },
+      { "trait_type": "Set", "value": 2 },
+      { "trait_type": "PartsHided", "value": "" },
+      { "trait_type": "Stat_Jump", "value": 1 }
+    ]
+  },
+  {
+    "image": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/img/Set7_Mask.png",
+    "name": "Ninja Mask 44",
+    "description": "",
+    "external_url": "",
+    "link": "models/items/Set7_Mask.glb",
+    "thumbnail": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/thumbnail/Set7_Mask.png",
+    "objectId": "25",
+    "tokenId": 44,
+    "attributes": [
+      { "trait_type": "Type", "value": "mask" },
+      { "trait_type": "Sex", "value": 1 },
+      { "trait_type": "Set", "value": 2 },
+      { "trait_type": "PartsHided", "value": "" },
+      { "trait_type": "Stat_Jump", "value": 1 }
+    ]
+  },
+  {
+    "image": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/img/Set7_Hat.png",
+    "name": "Ninja Hat 45",
+    "description": "",
+    "external_url": "",
+    "link": "models/items/Set7_Hat.glb",
+    "thumbnail": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/thumbnail/Set7_Hat.png",
+    "objectId": "23",
+    "tokenId": 45,
+    "attributes": [
+      { "trait_type": "Type", "value": "hat" },
+      { "trait_type": "Sex", "value": 1 },
+      { "trait_type": "Set", "value": 2 },
+      { "trait_type": "PartsHided", "value": "" },
+      { "trait_type": "Stat_Jump", "value": 1 }
+    ]
+  },
+  {
+    "image": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/img/Set7_Hat.png",
+    "name": "Ninja Hat 46",
+    "description": "",
+    "external_url": "",
+    "link": "models/items/Set7_Hat.glb",
+    "thumbnail": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/thumbnail/Set7_Hat.png",
+    "objectId": "23",
+    "tokenId": 46,
+    "attributes": [
+      { "trait_type": "Type", "value": "hat" },
+      { "trait_type": "Sex", "value": 1 },
+      { "trait_type": "Set", "value": 2 },
+      { "trait_type": "PartsHided", "value": "" },
+      { "trait_type": "Stat_Jump", "value": 1 }
+    ]
+  },
+  {
+    "image": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/img/Set7_Hat.png",
+    "name": "Ninja Hat 47",
+    "description": "",
+    "external_url": "",
+    "link": "models/items/Set7_Hat.glb",
+    "thumbnail": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/thumbnail/Set7_Hat.png",
+    "objectId": "23",
+    "tokenId": 47,
+    "attributes": [
+      { "trait_type": "Type", "value": "hat" },
+      { "trait_type": "Sex", "value": 1 },
+      { "trait_type": "Set", "value": 2 },
+      { "trait_type": "PartsHided", "value": "" },
+      { "trait_type": "Stat_Jump", "value": 1 }
+    ]
+  },
+  {
+    "image": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/img/Set7_Hat.png",
+    "name": "Ninja Hat 48",
+    "description": "",
+    "external_url": "",
+    "link": "models/items/Set7_Hat.glb",
+    "thumbnail": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/thumbnail/Set7_Hat.png",
+    "objectId": "23",
+    "tokenId": 48,
+    "attributes": [
+      { "trait_type": "Type", "value": "hat" },
+      { "trait_type": "Sex", "value": 1 },
+      { "trait_type": "Set", "value": 2 },
+      { "trait_type": "PartsHided", "value": "" },
+      { "trait_type": "Stat_Jump", "value": 1 }
+    ]
+  },
+  {
+    "image": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/img/Set7_Hat.png",
+    "name": "Ninja Hat 49",
+    "description": "",
+    "external_url": "",
+    "link": "models/items/Set7_Hat.glb",
+    "thumbnail": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/thumbnail/Set7_Hat.png",
+    "objectId": "23",
+    "tokenId": 49,
+    "attributes": [
+      { "trait_type": "Type", "value": "hat" },
+      { "trait_type": "Sex", "value": 1 },
+      { "trait_type": "Set", "value": 2 },
+      { "trait_type": "PartsHided", "value": "" },
+      { "trait_type": "Stat_Jump", "value": 1 }
+    ]
+  },
+  {
+    "image": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/img/Set9_Body.png",
+    "name": "Princess Body 50",
+    "description": "",
+    "external_url": "",
+    "link": "models/items/Set9_Body.glb",
+    "thumbnail": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/thumbnail/Set9_Body.png",
+    "objectId": "40",
+    "tokenId": 50,
+    "attributes": [
+      { "trait_type": "Type", "value": "body" },
+      { "trait_type": "Sex", "value": 2 },
+      { "trait_type": "Set", "value": 4 },
+      { "trait_type": "PartsHided", "value": "Body Arm Leg" },
+      { "trait_type": "Stat_Jump", "value": 1 },
+      { "trait_type": "Move_Speed", "value": 1 }
+    ]
+  },
+  {
+    "image": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/img/Set9_Body.png",
+    "name": "Princess Body 51",
+    "description": "",
+    "external_url": "",
+    "link": "models/items/Set9_Body.glb",
+    "thumbnail": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/thumbnail/Set9_Body.png",
+    "objectId": "40",
+    "tokenId": 51,
+    "attributes": [
+      { "trait_type": "Type", "value": "body" },
+      { "trait_type": "Sex", "value": 2 },
+      { "trait_type": "Set", "value": 4 },
+      { "trait_type": "PartsHided", "value": "Body Arm Leg" },
+      { "trait_type": "Stat_Jump", "value": 1 },
+      { "trait_type": "Move_Speed", "value": 1 }
+    ]
+  },
+  {
+    "image": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/img/Set9_Body.png",
+    "name": "Princess Body 52",
+    "description": "",
+    "external_url": "",
+    "link": "models/items/Set9_Body.glb",
+    "thumbnail": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/thumbnail/Set9_Body.png",
+    "objectId": "40",
+    "tokenId": 52,
+    "attributes": [
+      { "trait_type": "Type", "value": "body" },
+      { "trait_type": "Sex", "value": 2 },
+      { "trait_type": "Set", "value": 4 },
+      { "trait_type": "PartsHided", "value": "Body Arm Leg" },
+      { "trait_type": "Stat_Jump", "value": 1 },
+      { "trait_type": "Move_Speed", "value": 1 }
+    ]
+  },
+  {
+    "image": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/img/Set9_Body.png",
+    "name": "Princess Body 53",
+    "description": "",
+    "external_url": "",
+    "link": "models/items/Set9_Body.glb",
+    "thumbnail": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/thumbnail/Set9_Body.png",
+    "objectId": "40",
+    "tokenId": 53,
+    "attributes": [
+      { "trait_type": "Type", "value": "body" },
+      { "trait_type": "Sex", "value": 2 },
+      { "trait_type": "Set", "value": 4 },
+      { "trait_type": "PartsHided", "value": "Body Arm Leg" },
+      { "trait_type": "Stat_Jump", "value": 1 },
+      { "trait_type": "Move_Speed", "value": 1 }
+    ]
+  },
+  {
+    "image": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/img/Set9_Body.png",
+    "name": "Princess Body 54",
+    "description": "",
+    "external_url": "",
+    "link": "models/items/Set9_Body.glb",
+    "thumbnail": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/thumbnail/Set9_Body.png",
+    "objectId": "40",
+    "tokenId": 54,
+    "attributes": [
+      { "trait_type": "Type", "value": "body" },
+      { "trait_type": "Sex", "value": 2 },
+      { "trait_type": "Set", "value": 4 },
+      { "trait_type": "PartsHided", "value": "Body Arm Leg" },
+      { "trait_type": "Stat_Jump", "value": 1 },
+      { "trait_type": "Move_Speed", "value": 1 }
+    ]
+  },
+  {
+    "image": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/img/Set9_Glove.png",
+    "name": "Princess Glove 55",
+    "description": "",
+    "external_url": "",
+    "link": "models/items/Set9_Glove.glb",
+    "thumbnail": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/thumbnail/Set9_Glove.png",
+    "objectId": "38",
+    "tokenId": 55,
+    "attributes": [
+      { "trait_type": "Type", "value": "glove" },
+      { "trait_type": "Sex", "value": 2 },
+      { "trait_type": "Set", "value": 4 },
+      { "trait_type": "PartsHided", "value": "" },
+      { "trait_type": "Stat_Jump", "value": 1 },
+      { "trait_type": "Move_Speed", "value": 1 }
+    ]
+  },
+  {
+    "image": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/img/Set9_Glove.png",
+    "name": "Princess Glove 56",
+    "description": "",
+    "external_url": "",
+    "link": "models/items/Set9_Glove.glb",
+    "thumbnail": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/thumbnail/Set9_Glove.png",
+    "objectId": "38",
+    "tokenId": 56,
+    "attributes": [
+      { "trait_type": "Type", "value": "glove" },
+      { "trait_type": "Sex", "value": 2 },
+      { "trait_type": "Set", "value": 4 },
+      { "trait_type": "PartsHided", "value": "" },
+      { "trait_type": "Stat_Jump", "value": 1 },
+      { "trait_type": "Move_Speed", "value": 1 }
+    ]
+  },
+  {
+    "image": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/img/Set9_Glove.png",
+    "name": "Princess Glove 57",
+    "description": "",
+    "external_url": "",
+    "link": "models/items/Set9_Glove.glb",
+    "thumbnail": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/thumbnail/Set9_Glove.png",
+    "objectId": "38",
+    "tokenId": 57,
+    "attributes": [
+      { "trait_type": "Type", "value": "glove" },
+      { "trait_type": "Sex", "value": 2 },
+      { "trait_type": "Set", "value": 4 },
+      { "trait_type": "PartsHided", "value": "" },
+      { "trait_type": "Stat_Jump", "value": 1 },
+      { "trait_type": "Move_Speed", "value": 1 }
+    ]
+  },
+  {
+    "image": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/img/Set9_Glove.png",
+    "name": "Princess Glove 58",
+    "description": "",
+    "external_url": "",
+    "link": "models/items/Set9_Glove.glb",
+    "thumbnail": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/thumbnail/Set9_Glove.png",
+    "objectId": "38",
+    "tokenId": 58,
+    "attributes": [
+      { "trait_type": "Type", "value": "glove" },
+      { "trait_type": "Sex", "value": 2 },
+      { "trait_type": "Set", "value": 4 },
+      { "trait_type": "PartsHided", "value": "" },
+      { "trait_type": "Stat_Jump", "value": 1 },
+      { "trait_type": "Move_Speed", "value": 1 }
+    ]
+  },
+  {
+    "image": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/img/Set9_Glove.png",
+    "name": "Princess Glove 59",
+    "description": "",
+    "external_url": "",
+    "link": "models/items/Set9_Glove.glb",
+    "thumbnail": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/thumbnail/Set9_Glove.png",
+    "objectId": "38",
+    "tokenId": 59,
+    "attributes": [
+      { "trait_type": "Type", "value": "glove" },
+      { "trait_type": "Sex", "value": 2 },
+      { "trait_type": "Set", "value": 4 },
+      { "trait_type": "PartsHided", "value": "" },
+      { "trait_type": "Stat_Jump", "value": 1 },
+      { "trait_type": "Move_Speed", "value": 1 }
+    ]
+  },
+  {
+    "image": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/img/Set9_Shoe.png",
+    "name": "Princess Shoes 60",
+    "description": "",
+    "external_url": "",
+    "link": "models/items/Set9_Shoe.glb",
+    "thumbnail": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/thumbnail/Set9_Shoe.png",
+    "objectId": "36",
+    "tokenId": 60,
+    "attributes": [
+      { "trait_type": "Type", "value": "shoe" },
+      { "trait_type": "Sex", "value": 2 },
+      { "trait_type": "Set", "value": 4 },
+      { "trait_type": "PartsHided", "value": "Foot" },
+      { "trait_type": "Stat_Jump", "value": 1 },
+      { "trait_type": "Move_Speed", "value": 1 }
+    ]
+  },
+  {
+    "image": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/img/Set9_Shoe.png",
+    "name": "Princess Shoes 61",
+    "description": "",
+    "external_url": "",
+    "link": "models/items/Set9_Shoe.glb",
+    "thumbnail": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/thumbnail/Set9_Shoe.png",
+    "objectId": "36",
+    "tokenId": 61,
+    "attributes": [
+      { "trait_type": "Type", "value": "shoe" },
+      { "trait_type": "Sex", "value": 2 },
+      { "trait_type": "Set", "value": 4 },
+      { "trait_type": "PartsHided", "value": "Foot" },
+      { "trait_type": "Stat_Jump", "value": 1 },
+      { "trait_type": "Move_Speed", "value": 1 }
+    ]
+  },
+  {
+    "image": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/img/Set9_Shoe.png",
+    "name": "Princess Shoes 62",
+    "description": "",
+    "external_url": "",
+    "link": "models/items/Set9_Shoe.glb",
+    "thumbnail": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/thumbnail/Set9_Shoe.png",
+    "objectId": "36",
+    "tokenId": 62,
+    "attributes": [
+      { "trait_type": "Type", "value": "shoe" },
+      { "trait_type": "Sex", "value": 2 },
+      { "trait_type": "Set", "value": 4 },
+      { "trait_type": "PartsHided", "value": "Foot" },
+      { "trait_type": "Stat_Jump", "value": 1 },
+      { "trait_type": "Move_Speed", "value": 1 }
+    ]
+  },
+  {
+    "image": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/img/Set9_Shoe.png",
+    "name": "Princess Shoes 63",
+    "description": "",
+    "external_url": "",
+    "link": "models/items/Set9_Shoe.glb",
+    "thumbnail": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/thumbnail/Set9_Shoe.png",
+    "objectId": "36",
+    "tokenId": 63,
+    "attributes": [
+      { "trait_type": "Type", "value": "shoe" },
+      { "trait_type": "Sex", "value": 2 },
+      { "trait_type": "Set", "value": 4 },
+      { "trait_type": "PartsHided", "value": "Foot" },
+      { "trait_type": "Stat_Jump", "value": 1 },
+      { "trait_type": "Move_Speed", "value": 1 }
+    ]
+  },
+  {
+    "image": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/img/Set9_Shoe.png",
+    "name": "Princess Shoes 64",
+    "description": "",
+    "external_url": "",
+    "link": "models/items/Set9_Shoe.glb",
+    "thumbnail": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/thumbnail/Set9_Shoe.png",
+    "objectId": "36",
+    "tokenId": 64,
+    "attributes": [
+      { "trait_type": "Type", "value": "shoe" },
+      { "trait_type": "Sex", "value": 2 },
+      { "trait_type": "Set", "value": 4 },
+      { "trait_type": "PartsHided", "value": "Foot" },
+      { "trait_type": "Stat_Jump", "value": 1 },
+      { "trait_type": "Move_Speed", "value": 1 }
+    ]
+  },
+  {
+    "image": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/img/Set9_Mask.png",
+    "name": "Princess Mask 65",
+    "description": "",
+    "external_url": "",
+    "link": "models/items/Set9_Mask.glb",
+    "thumbnail": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/thumbnail/Set9_Mask.png",
+    "objectId": "34",
+    "tokenId": 65,
+    "attributes": [
+      { "trait_type": "Type", "value": "mask" },
+      { "trait_type": "Sex", "value": 2 },
+      { "trait_type": "Set", "value": 4 },
+      { "trait_type": "PartsHided", "value": "" },
+      { "trait_type": "Stat_Jump", "value": 1 },
+      { "trait_type": "Move_Speed", "value": 1 }
+    ]
+  },
+  {
+    "image": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/img/Set9_Mask.png",
+    "name": "Princess Mask 66",
+    "description": "",
+    "external_url": "",
+    "link": "models/items/Set9_Mask.glb",
+    "thumbnail": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/thumbnail/Set9_Mask.png",
+    "objectId": "34",
+    "tokenId": 66,
+    "attributes": [
+      { "trait_type": "Type", "value": "mask" },
+      { "trait_type": "Sex", "value": 2 },
+      { "trait_type": "Set", "value": 4 },
+      { "trait_type": "PartsHided", "value": "" },
+      { "trait_type": "Stat_Jump", "value": 1 },
+      { "trait_type": "Move_Speed", "value": 1 }
+    ]
+  },
+  {
+    "image": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/img/Set9_Mask.png",
+    "name": "Princess Mask 67",
+    "description": "",
+    "external_url": "",
+    "link": "models/items/Set9_Mask.glb",
+    "thumbnail": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/thumbnail/Set9_Mask.png",
+    "objectId": "34",
+    "tokenId": 67,
+    "attributes": [
+      { "trait_type": "Type", "value": "mask" },
+      { "trait_type": "Sex", "value": 2 },
+      { "trait_type": "Set", "value": 4 },
+      { "trait_type": "PartsHided", "value": "" },
+      { "trait_type": "Stat_Jump", "value": 1 },
+      { "trait_type": "Move_Speed", "value": 1 }
+    ]
+  },
+  {
+    "image": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/img/Set9_Mask.png",
+    "name": "Princess Mask 68",
+    "description": "",
+    "external_url": "",
+    "link": "models/items/Set9_Mask.glb",
+    "thumbnail": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/thumbnail/Set9_Mask.png",
+    "objectId": "34",
+    "tokenId": 68,
+    "attributes": [
+      { "trait_type": "Type", "value": "mask" },
+      { "trait_type": "Sex", "value": 2 },
+      { "trait_type": "Set", "value": 4 },
+      { "trait_type": "PartsHided", "value": "" },
+      { "trait_type": "Stat_Jump", "value": 1 },
+      { "trait_type": "Move_Speed", "value": 1 }
+    ]
+  },
+  {
+    "image": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/img/Set9_Mask.png",
+    "name": "Princess Mask 69",
+    "description": "",
+    "external_url": "",
+    "link": "models/items/Set9_Mask.glb",
+    "thumbnail": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/thumbnail/Set9_Mask.png",
+    "objectId": "34",
+    "tokenId": 69,
+    "attributes": [
+      { "trait_type": "Type", "value": "mask" },
+      { "trait_type": "Sex", "value": 2 },
+      { "trait_type": "Set", "value": 4 },
+      { "trait_type": "PartsHided", "value": "" },
+      { "trait_type": "Stat_Jump", "value": 1 },
+      { "trait_type": "Move_Speed", "value": 1 }
+    ]
+  },
+  {
+    "image": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/img/Set9_Hat.png",
+    "name": "Princess Hat 70",
+    "description": "",
+    "external_url": "",
+    "link": "models/items/Set9_Hat.glb",
+    "thumbnail": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/thumbnail/Set9_Hat.png",
+    "objectId": "32",
+    "tokenId": 70,
+    "attributes": [
+      { "trait_type": "Type", "value": "hat" },
+      { "trait_type": "Sex", "value": 2 },
+      { "trait_type": "Set", "value": 4 },
+      { "trait_type": "PartsHided", "value": "" },
+      { "trait_type": "Stat_Jump", "value": 1 },
+      { "trait_type": "Move_Speed", "value": 1 }
+    ]
+  },
+  {
+    "image": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/img/Set9_Hat.png",
+    "name": "Princess Hat 71",
+    "description": "",
+    "external_url": "",
+    "link": "models/items/Set9_Hat.glb",
+    "thumbnail": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/thumbnail/Set9_Hat.png",
+    "objectId": "32",
+    "tokenId": 71,
+    "attributes": [
+      { "trait_type": "Type", "value": "hat" },
+      { "trait_type": "Sex", "value": 2 },
+      { "trait_type": "Set", "value": 4 },
+      { "trait_type": "PartsHided", "value": "" },
+      { "trait_type": "Stat_Jump", "value": 1 },
+      { "trait_type": "Move_Speed", "value": 1 }
+    ]
+  },
+  {
+    "image": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/img/Set9_Hat.png",
+    "name": "Princess Hat 72",
+    "description": "",
+    "external_url": "",
+    "link": "models/items/Set9_Hat.glb",
+    "thumbnail": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/thumbnail/Set9_Hat.png",
+    "objectId": "32",
+    "tokenId": 72,
+    "attributes": [
+      { "trait_type": "Type", "value": "hat" },
+      { "trait_type": "Sex", "value": 2 },
+      { "trait_type": "Set", "value": 4 },
+      { "trait_type": "PartsHided", "value": "" },
+      { "trait_type": "Stat_Jump", "value": 1 },
+      { "trait_type": "Move_Speed", "value": 1 }
+    ]
+  },
+  {
+    "image": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/img/Set9_Hat.png",
+    "name": "Princess Hat 73",
+    "description": "",
+    "external_url": "",
+    "link": "models/items/Set9_Hat.glb",
+    "thumbnail": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/thumbnail/Set9_Hat.png",
+    "objectId": "32",
+    "tokenId": 73,
+    "attributes": [
+      { "trait_type": "Type", "value": "hat" },
+      { "trait_type": "Sex", "value": 2 },
+      { "trait_type": "Set", "value": 4 },
+      { "trait_type": "PartsHided", "value": "" },
+      { "trait_type": "Stat_Jump", "value": 1 },
+      { "trait_type": "Move_Speed", "value": 1 }
+    ]
+  },
+  {
+    "image": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/img/Set9_Hat.png",
+    "name": "Princess Hat 74",
+    "description": "",
+    "external_url": "",
+    "link": "models/items/Set9_Hat.glb",
+    "thumbnail": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/thumbnail/Set9_Hat.png",
+    "objectId": "32",
+    "tokenId": 74,
+    "attributes": [
+      { "trait_type": "Type", "value": "hat" },
+      { "trait_type": "Sex", "value": 2 },
+      { "trait_type": "Set", "value": 4 },
+      { "trait_type": "PartsHided", "value": "" },
+      { "trait_type": "Stat_Jump", "value": 1 },
+      { "trait_type": "Move_Speed", "value": 1 }
+    ]
+  },
+  {
+    "image": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/img/Set1_Hourse.png",
+    "name": "Horse 75",
+    "description": "",
+    "external_url": "",
+    "link": "models/items/Set2_Horse.glb",
+    "thumbnail": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/thumbnail/Set1_Hourse.png",
+    "objectId": "19",
+    "tokenId": 75,
+    "attributes": [
+      { "trait_type": "Type", "value": "horse" },
+      { "trait_type": "Sex", "value": "0" },
+      { "trait_type": "Set", "value": 0 },
+      { "trait_type": "PartsHided", "value": "" },
+      { "trait_type": "Stat_Jump", "value": 0 }
+    ]
+  },
+  {
+    "image": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/img/Set1_Hourse.png",
+    "name": "Horse 76",
+    "description": "",
+    "external_url": "",
+    "link": "models/items/Set2_Horse.glb",
+    "thumbnail": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/thumbnail/Set1_Hourse.png",
+    "objectId": "19",
+    "tokenId": 76,
+    "attributes": [
+      { "trait_type": "Type", "value": "horse" },
+      { "trait_type": "Sex", "value": "0" },
+      { "trait_type": "Set", "value": 0 },
+      { "trait_type": "PartsHided", "value": "" },
+      { "trait_type": "Stat_Jump", "value": 0 }
+    ]
+  },
+  {
+    "image": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/img/Set1_Hourse.png",
+    "name": "Horse 77",
+    "description": "",
+    "external_url": "",
+    "link": "models/items/Set2_Horse.glb",
+    "thumbnail": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/thumbnail/Set1_Hourse.png",
+    "objectId": "19",
+    "tokenId": 77,
+    "attributes": [
+      { "trait_type": "Type", "value": "horse" },
+      { "trait_type": "Sex", "value": "0" },
+      { "trait_type": "Set", "value": 0 },
+      { "trait_type": "PartsHided", "value": "" },
+      { "trait_type": "Stat_Jump", "value": 0 }
+    ]
+  },
+  {
+    "image": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/img/Set1_Hourse.png",
+    "name": "Horse 78",
+    "description": "",
+    "external_url": "",
+    "link": "models/items/Set2_Horse.glb",
+    "thumbnail": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/thumbnail/Set1_Hourse.png",
+    "objectId": "19",
+    "tokenId": 78,
+    "attributes": [
+      { "trait_type": "Type", "value": "horse" },
+      { "trait_type": "Sex", "value": "0" },
+      { "trait_type": "Set", "value": 0 },
+      { "trait_type": "PartsHided", "value": "" },
+      { "trait_type": "Stat_Jump", "value": 0 }
+    ]
+  },
+  {
+    "image": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/img/Set1_Hourse.png",
+    "name": "Horse 79",
+    "description": "",
+    "external_url": "",
+    "link": "models/items/Set2_Horse.glb",
+    "thumbnail": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/thumbnail/Set1_Hourse.png",
+    "objectId": "19",
+    "tokenId": 79,
+    "attributes": [
+      { "trait_type": "Type", "value": "horse" },
+      { "trait_type": "Sex", "value": "0" },
+      { "trait_type": "Set", "value": 0 },
+      { "trait_type": "PartsHided", "value": "" },
+      { "trait_type": "Stat_Jump", "value": 0 }
+    ]
+  },
+  {
+    "image": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/img/Set1_Hourse.png",
+    "name": "Horse 80",
+    "description": "",
+    "external_url": "",
+    "link": "models/items/Set2_Horse.glb",
+    "thumbnail": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/thumbnail/Set1_Hourse.png",
+    "objectId": "19",
+    "tokenId": 80,
+    "attributes": [
+      { "trait_type": "Type", "value": "horse" },
+      { "trait_type": "Sex", "value": "0" },
+      { "trait_type": "Set", "value": 0 },
+      { "trait_type": "PartsHided", "value": "" },
+      { "trait_type": "Stat_Jump", "value": 0 }
+    ]
+  },
+  {
+    "image": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/img/Set1_Hourse.png",
+    "name": "Horse 81",
+    "description": "",
+    "external_url": "",
+    "link": "models/items/Set2_Horse.glb",
+    "thumbnail": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/thumbnail/Set1_Hourse.png",
+    "objectId": "19",
+    "tokenId": 81,
+    "attributes": [
+      { "trait_type": "Type", "value": "horse" },
+      { "trait_type": "Sex", "value": "0" },
+      { "trait_type": "Set", "value": 0 },
+      { "trait_type": "PartsHided", "value": "" },
+      { "trait_type": "Stat_Jump", "value": 0 }
+    ]
+  },
+  {
+    "image": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/img/Set1_Hourse.png",
+    "name": "Horse 82",
+    "description": "",
+    "external_url": "",
+    "link": "models/items/Set2_Horse.glb",
+    "thumbnail": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/thumbnail/Set1_Hourse.png",
+    "objectId": "19",
+    "tokenId": 82,
+    "attributes": [
+      { "trait_type": "Type", "value": "horse" },
+      { "trait_type": "Sex", "value": "0" },
+      { "trait_type": "Set", "value": 0 },
+      { "trait_type": "PartsHided", "value": "" },
+      { "trait_type": "Stat_Jump", "value": 0 }
+    ]
+  },
+  {
+    "image": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/img/Set1_Hourse.png",
+    "name": "Horse 83",
+    "description": "",
+    "external_url": "",
+    "link": "models/items/Set2_Horse.glb",
+    "thumbnail": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/thumbnail/Set1_Hourse.png",
+    "objectId": "19",
+    "tokenId": 83,
+    "attributes": [
+      { "trait_type": "Type", "value": "horse" },
+      { "trait_type": "Sex", "value": "0" },
+      { "trait_type": "Set", "value": 0 },
+      { "trait_type": "PartsHided", "value": "" },
+      { "trait_type": "Stat_Jump", "value": 0 }
+    ]
+  },
+  {
+    "image": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/img/Set1_Hourse.png",
+    "name": "Horse 84",
+    "description": "",
+    "external_url": "",
+    "link": "models/items/Set2_Horse.glb",
+    "thumbnail": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/thumbnail/Set1_Hourse.png",
+    "objectId": "19",
+    "tokenId": 84,
+    "attributes": [
+      { "trait_type": "Type", "value": "horse" },
+      { "trait_type": "Sex", "value": "0" },
+      { "trait_type": "Set", "value": 0 },
+      { "trait_type": "PartsHided", "value": "" },
+      { "trait_type": "Stat_Jump", "value": 0 }
+    ]
+  },
+  {
+    "image": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/img/Set1_Bow.png",
+    "name": "Bow 85",
+    "description": "",
+    "external_url": "",
+    "link": "models/items/Set1_Bow.glb",
+    "thumbnail": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/thumbnail/Set1_Bow.png",
+    "objectId": "20",
+    "tokenId": 85,
+    "attributes": [
+      { "trait_type": "Type", "value": "bow" },
+      { "trait_type": "Sex", "value": "0" },
+      { "trait_type": "Set", "value": 0 },
+      { "trait_type": "PartsHided", "value": "" },
+      { "trait_type": "Stat_Jump", "value": 0 }
+    ]
+  },
+  {
+    "image": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/img/Set1_Bow.png",
+    "name": "Bow 86",
+    "description": "",
+    "external_url": "",
+    "link": "models/items/Set1_Bow.glb",
+    "thumbnail": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/thumbnail/Set1_Bow.png",
+    "objectId": "20",
+    "tokenId": 86,
+    "attributes": [
+      { "trait_type": "Type", "value": "bow" },
+      { "trait_type": "Sex", "value": "0" },
+      { "trait_type": "Set", "value": 0 },
+      { "trait_type": "PartsHided", "value": "" },
+      { "trait_type": "Stat_Jump", "value": 0 }
+    ]
+  },
+  {
+    "image": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/img/Set1_Bow.png",
+    "name": "Bow 87",
+    "description": "",
+    "external_url": "",
+    "link": "models/items/Set1_Bow.glb",
+    "thumbnail": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/thumbnail/Set1_Bow.png",
+    "objectId": "20",
+    "tokenId": 87,
+    "attributes": [
+      { "trait_type": "Type", "value": "bow" },
+      { "trait_type": "Sex", "value": "0" },
+      { "trait_type": "Set", "value": 0 },
+      { "trait_type": "PartsHided", "value": "" },
+      { "trait_type": "Stat_Jump", "value": 0 }
+    ]
+  },
+  {
+    "image": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/img/Set1_Bow.png",
+    "name": "Bow 88",
+    "description": "",
+    "external_url": "",
+    "link": "models/items/Set1_Bow.glb",
+    "thumbnail": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/thumbnail/Set1_Bow.png",
+    "objectId": "20",
+    "tokenId": 88,
+    "attributes": [
+      { "trait_type": "Type", "value": "bow" },
+      { "trait_type": "Sex", "value": "0" },
+      { "trait_type": "Set", "value": 0 },
+      { "trait_type": "PartsHided", "value": "" },
+      { "trait_type": "Stat_Jump", "value": 0 }
+    ]
+  },
+  {
+    "image": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/img/Set1_Bow.png",
+    "name": "Bow 89",
+    "description": "",
+    "external_url": "",
+    "link": "models/items/Set1_Bow.glb",
+    "thumbnail": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/thumbnail/Set1_Bow.png",
+    "objectId": "20",
+    "tokenId": 89,
+    "attributes": [
+      { "trait_type": "Type", "value": "bow" },
+      { "trait_type": "Sex", "value": "0" },
+      { "trait_type": "Set", "value": 0 },
+      { "trait_type": "PartsHided", "value": "" },
+      { "trait_type": "Stat_Jump", "value": 0 }
+    ]
+  },
+  {
+    "image": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/img/Set1_Bow.png",
+    "name": "Bow 90",
+    "description": "",
+    "external_url": "",
+    "link": "models/items/Set1_Bow.glb",
+    "thumbnail": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/thumbnail/Set1_Bow.png",
+    "objectId": "20",
+    "tokenId": 90,
+    "attributes": [
+      { "trait_type": "Type", "value": "bow" },
+      { "trait_type": "Sex", "value": "0" },
+      { "trait_type": "Set", "value": 0 },
+      { "trait_type": "PartsHided", "value": "" },
+      { "trait_type": "Stat_Jump", "value": 0 }
+    ]
+  },
+  {
+    "image": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/img/Set1_Bow.png",
+    "name": "Bow 91",
+    "description": "",
+    "external_url": "",
+    "link": "models/items/Set1_Bow.glb",
+    "thumbnail": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/thumbnail/Set1_Bow.png",
+    "objectId": "20",
+    "tokenId": 91,
+    "attributes": [
+      { "trait_type": "Type", "value": "bow" },
+      { "trait_type": "Sex", "value": "0" },
+      { "trait_type": "Set", "value": 0 },
+      { "trait_type": "PartsHided", "value": "" },
+      { "trait_type": "Stat_Jump", "value": 0 }
+    ]
+  },
+  {
+    "image": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/img/Set1_Bow.png",
+    "name": "Bow 92",
+    "description": "",
+    "external_url": "",
+    "link": "models/items/Set1_Bow.glb",
+    "thumbnail": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/thumbnail/Set1_Bow.png",
+    "objectId": "20",
+    "tokenId": 92,
+    "attributes": [
+      { "trait_type": "Type", "value": "bow" },
+      { "trait_type": "Sex", "value": "0" },
+      { "trait_type": "Set", "value": 0 },
+      { "trait_type": "PartsHided", "value": "" },
+      { "trait_type": "Stat_Jump", "value": 0 }
+    ]
+  },
+  {
+    "image": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/img/Set1_Bow.png",
+    "name": "Bow 93",
+    "description": "",
+    "external_url": "",
+    "link": "models/items/Set1_Bow.glb",
+    "thumbnail": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/thumbnail/Set1_Bow.png",
+    "objectId": "20",
+    "tokenId": 93,
+    "attributes": [
+      { "trait_type": "Type", "value": "bow" },
+      { "trait_type": "Sex", "value": "0" },
+      { "trait_type": "Set", "value": 0 },
+      { "trait_type": "PartsHided", "value": "" },
+      { "trait_type": "Stat_Jump", "value": 0 }
+    ]
+  },
+  {
+    "image": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/img/Set1_Bow.png",
+    "name": "Bow 94",
+    "description": "",
+    "external_url": "",
+    "link": "models/items/Set1_Bow.glb",
+    "thumbnail": "https://meta-dev-samuraimetaverse.cmcglobal.vn/public/nft/images/item/thumbnail/Set1_Bow.png",
+    "objectId": "20",
+    "tokenId": 94,
+    "attributes": [
+      { "trait_type": "Type", "value": "bow" },
+      { "trait_type": "Sex", "value": "0" },
+      { "trait_type": "Set", "value": 0 },
+      { "trait_type": "PartsHided", "value": "" },
+      { "trait_type": "Stat_Jump", "value": 0 }
+    ]
+  }
+]
