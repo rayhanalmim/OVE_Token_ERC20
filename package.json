@@ -1,0 +1,13 @@
+{
+  "name": "cmccoin-deployment",
+  "version": "1.0.0",
+  "description": "CMCcoin token deployment script",
+  "main": "deploy.js",
+  "scripts": {
+    "deploy": "node deploy.js"
+  },
+  "dependencies": {
+    "ethers": "^6.8.0",
+    "dotenv": "^16.3.1"
+  }
+}
